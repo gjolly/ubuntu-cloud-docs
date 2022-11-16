@@ -85,4 +85,9 @@
          <lastmod>2022-11-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://canonical.github.io/ubuntu-cloud-docs/general/index.html</loc>
+         <lastmod>2022-11-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
